@@ -1,5 +1,6 @@
-#include <iostream>
+// Student grading system
 
+#include <iostream>
 using namespace std;
 
 int main() {
